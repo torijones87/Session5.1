@@ -1,17 +1,14 @@
 header{
-    height:100px;
-    width:160px;
-    border-style:1px;
+    height:70px;
+    width:140px;
+    border:1px;
     color: white;
     Background-color: blue;
     padding:20px;
-    border-radius:70px 140px;
+    border-radius:50%
     text-align: center;
 }
-#contentBox{
-    height:400px;
-    width:300px;
-    margin:100px;
-    background: linear-gradient(to top,light yellow, yellow);
+body{
+    background: linear-gradient(yellow,lightyellow);
 }
 
